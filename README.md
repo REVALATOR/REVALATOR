@@ -1,6 +1,5 @@
 <h1 align="center">Hey there, I'm ♠️ ARJUN SATHYAN ♠️</h1>
 <h3 align="center">Just a nobody trying to find a purpose in this mad world</h3>
-<img align="right" alt="Coding" width="500" src="https://steamuserimages-a.akamaihd.net/ugc/951841177138539426/C34FA06B238773B5A1139330F10D3FF3B95ED601/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 - 📫 How to reach me **arjun.sathyan16@gmail.com**
 
